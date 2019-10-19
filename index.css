@@ -1,0 +1,74 @@
+body {
+    background-color: white;
+    
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    font-family: cursive;
+    
+  }
+  
+  h2{
+    color: red;
+    text-align: left;
+    font-family: snell; 
+  }
+
+  p{
+    color: blueviolet;
+    text-align: left;
+    font-size: 10px;
+  }
+  
+  article {
+    font-family: trattatello;
+    font-size: 16px;
+  }
+
+  p {
+    font-family: trattatello;
+    font-size: 20px;
+  }
+
+  .esquerda{
+    text-align: justify;
+    font-family: trattatello;
+    font-size: 20px;
+    
+  }   
+
+  .esquerdamy{
+    text-align: justify;
+    font-family: trattatello;
+    font-size: 20px;
+    background: #6495ED;
+  }
+
+  .centro{
+    text-align: center;
+    font-family: trattatello;
+    color: white;
+    font-size: 25px;
+  }
+
+  .agradecer{
+    text-align: center;
+    font-family: trattatello;
+    font-size: 20px;
+  }
+
+  .centralizar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+  }
+
+  .inicio{
+    text-align: center;
+    font-family: trattatello;
+    color:#8470FF ;
+    font-size: 25px;
+  }
+
