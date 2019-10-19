@@ -14,7 +14,7 @@
 # Portifólio dos Participantes
 
 - [Vitória Heliane](https://sites.google.com/view/testebibi/index)
-- [Ana Beatriz Truta] (https://beatriztruta.github.io/)
+- [Ana Beatriz Truta](https://beatriztruta.github.io/)
 
 # Links Úteis
 
